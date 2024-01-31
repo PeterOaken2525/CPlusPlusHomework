@@ -1,0 +1,5 @@
+﻿  MainFile.cpp
+D:\1 Projects\C++ Projects\C++Homework Projects\HW_13\functions.h(6,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'MainFile.cpp')
+  
+  HW_13.vcxproj -> D:\1 Projects\C++ Projects\C++Homework Projects\HW_13\x64\Debug\HW_13.exe
