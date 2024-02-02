@@ -1,0 +1,6 @@
+﻿  MainFile.cpp
+D:\1 Projects\C++ Projects\C++Homework Projects\---Homework\HW_14\functions.h(7,9): warning C4101: 'index': unreferenced local variable
+  (compiling source file 'MainFile.cpp')
+  
+D:\1 Projects\C++ Projects\C++Homework Projects\---Homework\HW_14\MainFile.cpp(31,35): warning C4101: 'ex': unreferenced local variable
+  HW_14.vcxproj -> D:\1 Projects\C++ Projects\C++Homework Projects\---Homework\HW_14\x64\Debug\HW_14.exe
