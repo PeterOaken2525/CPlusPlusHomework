@@ -71,7 +71,6 @@ int main()
     {
         CharacterInfo character;
         cout << "Enter data for character " << i + 1 << ":" << endl;
-        character.characterID++;
         cout << "Character ID: ";
         cin >> character.characterID;
         cout << "Character Class (0 - Warrior, 1 - Archer, 2 - Mage): ";
